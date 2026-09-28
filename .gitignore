@@ -1,0 +1,16 @@
+# Bí mật — KHÔNG commit
+.env
+**/.env
+!.env.example
+_secrets/
+**/_secrets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
